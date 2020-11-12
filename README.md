@@ -1,7 +1,8 @@
 # HelpOid : Android SoS Application
-<img src="https://github.com/chirodip98/HelpOid/blob/master/app/src/main/res/drawable/logo.png?raw=true">
+
 ## HelpOid
 
+ <img src="https://github.com/chirodip98/HelpOid/blob/master/app/src/main/res/drawable/logo.png?raw=true">
 <p>HelpOid is a Simple , Light weight SoS Application . This Application Was built using Android Studio and Google Maps API.</p>
 <br>
 <h2>Features</h2>
