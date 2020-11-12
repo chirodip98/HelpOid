@@ -9,7 +9,7 @@
 <li>
   <ol>1. Light Weight <4mb </ol>
   <ol>2. Simple GuI , that loads faster </ol>
-  <ol>3. We Keep our sensitive information Safe </ol>
+  <ol>3. We Keep your sensitive information Safe </ol>
   <ol>4. No hidden charges , No Ads </ol>
 </li>
 
