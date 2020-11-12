@@ -6,10 +6,10 @@
 <br>
 <h2>Features</h2>
 <li>
-  <ol>Light Weight <4mb </ol>
-  <ol>Simple GuI , that loads faster</ol>
-  <ol>We Keep our sensitive information Safe</ol>
-  <ol>No hidden charges , No Ads</ol>
+  <ol>Light Weight <4mb 
+  <ol>Simple GuI , that loads faster
+  <ol>We Keep our sensitive information Safe
+  <ol>No hidden charges , No Ads
 </li>
 
 <h3>Acheivments</h3>
